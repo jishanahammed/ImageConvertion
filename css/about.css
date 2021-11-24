@@ -1,0 +1,47 @@
+.main-aboutUs{
+    margin-top: 50px;
+}
+.sulowgun{
+    color: #888686;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.peragrap{
+    font-size: 15px;
+    color:#6b6b6b;
+}
+.skrill{
+    margin-top: 50px;
+}
+.skrill-item span{
+    display: flex;
+}
+.skrill-item i{
+    padding-top: 3px;
+    margin-right:10px ;
+   
+}
+.skrill-item{
+    padding: 15px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    background-color: #139E75;
+    color: #fff;
+    font-weight: 600;
+}
+@media (min-width:991px){
+
+    .main-aboutUs h2{
+        margin-bottom: 0px;
+        font-size: 50px;
+        color: #09523D;
+     }
+  }
+  @media (max-width:992px){
+
+    .main-aboutUs h2{
+        margin-bottom: 0px;
+        font-size: 30px;
+        color: #09523D;
+     }
+  }
+

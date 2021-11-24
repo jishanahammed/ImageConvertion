@@ -1,0 +1,130 @@
+.ourProduct .owl-prev i{
+    color: #355386;
+    font-size: 30px;
+    transition: 0.3s ease-in-out;
+  }
+  .ourProduct .owl-next i{
+    color: #355386;
+    font-size: 30px;
+    transition: 0.3s ease-in-out;
+  }
+  .ourProduct .owl-next:hover i,
+  .ourProduct .owl-prev:hover i{
+    color: #fff;
+  }
+
+  .ourProduct .owl-next i,
+  .ourProduct .owl-prev i{
+      display: none;
+  }
+
+
+
+  .Priceing .owl-prev i{
+    color: #355386;
+    font-size: 30px;
+    transition: 0.3s ease-in-out;
+  }
+  .Priceing .owl-next i{
+    color: #355386;
+    font-size: 30px;
+    transition: 0.3s ease-in-out;
+  }
+  .Priceing .owl-next:hover i,
+  .Priceing .owl-prev:hover i{
+    color: #fff;
+  }
+
+  .Priceing .owl-next i,
+  .Priceing .owl-prev i{
+      display: none;
+  }
+
+
+
+
+
+  .owl-carousel:hover .owl-next i,
+  .owl-carousel:hover  .owl-prev i{
+      display: block;
+  }
+  .owl-theme .owl-nav .disabled {
+    opacity: .3 !important;
+    cursor: default;
+  }
+  
+  .owl-carousel .owl-nav {
+    position: absolute;
+    width: 100%;
+    top: 40%;
+  }
+  .owl-carousel .owl-nav button.owl-next span,
+  .owl-carousel .owl-nav button.owl-prev span {
+    width: 45px;
+    height: 45px;
+    font-size: 48px;
+    background-color: #ffa800;
+    display: inline-block;
+    line-height: 35px;
+    border-radius: 50px;
+    color: #fff;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+    left: 10px;
+    position: absolute;
+  }
+  .owl-carousel .owl-nav button.owl-next {
+    right: 10px;
+    position: absolute;
+  }
+  .owl-carousel .col-12 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-lg-4 {
+    max-width: 100% !important;
+    max-height: 100%;
+  }
+  .owl-carousel .col-lg-3 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-lg-6 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-md-6 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-md-4 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-md-10 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-sm-12 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-sm-6 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-xs-12 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-carousel .col-6 {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .owl-theme .owl-dots .owl-dot.active span,
+  .owl-theme .owl-dots .owl-dot:hover span {
+    background: #870834 !important;
+  }
+  .owl-carousel .owl-nav.disabled {
+    display: block !important;
+  }

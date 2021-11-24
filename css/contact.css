@@ -1,0 +1,145 @@
+.add-Prescription {
+    background-color: #f7f8fa;
+    padding-top: 50px;
+  }
+
+  .add-Prescription .form-control:focus {
+    box-shadow: none !important;
+    border: 1px solid #ffeb3b;
+  }
+
+  .p-u-titel {
+    font-size: 20px !important;
+    font-weight: 800;
+    color: #6c757d;
+    font-family: Work Sans, Arial, Helvetica, sans-serif;
+  }
+
+
+
+  .cominication {
+    display: block;
+    margin-top: 30px;
+  }
+
+  .main-div-p-u p {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Work Sans, Arial, Helvetica, sans-serif;
+    color: #6c757d;
+  }
+
+  .com-main {
+    padding: 0.5rem 0.8em !important;
+    font-family: Work Sans, Arial, Helvetica, sans-serif;
+    border: 1px solid #eee;
+
+  }
+
+  .com-main h5 {
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .com-main a {
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .com-title-question {
+
+    font-weight: 900;
+    color: #e51165;
+
+  }
+
+  .com-title-fb {
+    font-weight: 900;
+    color: #3b5998;
+  }
+
+  .com-title-sms {
+    font-weight: 900;
+    color: #218aff;
+
+  }
+
+  .com-title-email {
+    font-weight: 900;
+    color: #C71610;
+
+  }
+
+
+
+
+
+
+
+
+  /* contact */
+  .contact-heading-title {
+    color: #222;
+    font-size: 26px;
+    font-weight: 500;
+    text-transform: capitalize;
+
+
+}
+
+.contact-Addrass {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ebebeb;
+    margin-bottom:20px;
+}
+.contact-Addrass:last-child {border-bottom: none;}
+.contact-Addrass h4{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #222;
+    text-transform: capitalize;
+    font-weight: 700;
+    padding-bottom: 10px;
+
+}
+.contact-Addrass h4 .contact-Addrass-icon{
+    color: #9c9fa2;
+}
+.contact-Addrass p{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #222;
+    text-transform: capitalize;
+    font-weight: 500;
+    margin-bottom: 3px;
+
+}
+.contact-form-contact-page .form-group label{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #222;
+}
+.contact-form-contact-page .form-control{
+     background-color: #fff;
+border: 1px solid #ced4da;
+border-radius:0rem;
+}
+.contact-form-contact-page .form-control:focus{
+    box-shadow: none;
+    border: 1px solid #9c9fa2;
+}
+.form-btn-contact .btn:focus{
+    box-shadow: none;
+
+}
+.form-btn-contact .btn{          
+      background-color: #fedc19;
+    color: #222;
+    transition: 0.3s ease-in-out;
+    border-radius: 50px;
+}
+.form-btn-contact .btn:hover{          
+      background-color:#222;
+    color: #fff;
+}
